@@ -8,11 +8,13 @@ h1 {
     
 }
 
-.stairs {
-    width: 35%;
+.zorah {
+    width: 100%;
     height: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+    padding-left: 80px;
 }
 
 .footer {
