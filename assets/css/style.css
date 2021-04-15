@@ -19,4 +19,20 @@ h1 {
 
 .footer {
     padding-top: 50px;
+    padding-left: 100px;
+}
+
+#contact-form {
+    padding-top: 50px;
+    padding-left: 300px;
+    padding-right: 75px;
+}
+
+.text-center {
+    padding-right: 75px;
+}
+
+.list-unstyled {
+    padding-right: 210px;
+    padding-top: 100px;
 }
