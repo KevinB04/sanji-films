@@ -17,6 +17,13 @@ h1 {
     padding-left: 80px;
 }
 
+.carousel {
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 200px;
+    padding-top: 50px;
+}
+
 .footer {
     padding-top: 50px;
     padding-left: 100px;
@@ -30,9 +37,10 @@ h1 {
 
 .text-center {
     padding-right: 75px;
+    padding-top: 20px;
 }
 
 .list-unstyled {
     padding-right: 210px;
-    padding-top: 100px;
+    padding-top: 75px;
 }
