@@ -35,6 +35,12 @@ h1 {
     float: left;
 }
 
+footer p {
+    color: #888;
+    text-align: center;
+    margin-top: 20px;
+}
+
 #contact-form {
     padding-top: 50px;
     padding-left: 300px;
