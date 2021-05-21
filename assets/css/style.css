@@ -1,3 +1,7 @@
+h1 {
+    font-size: 48px;
+}
+
 h2 {
     font-family: 'Times New Roman', Times, serif;
     padding-top: 20px;
@@ -51,6 +55,15 @@ h2 {
     color: #555;
 }
 
+.zorah {
+    font-size: 48px;
+    text-align: center;
+}
+
+.active-links {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 /*  */
 
 .zorah {
@@ -84,6 +97,11 @@ footer p {
     color: #888;
     text-align: center;
     margin-top: 20px;
+}
+
+.contact {
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #contact-form {
